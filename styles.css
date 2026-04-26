@@ -66,6 +66,7 @@ a{
 }
 
 .grid-item {
+    background: #880808;
     padding: 12px;
     border-radius: 8px;
     overflow: hidden;
