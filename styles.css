@@ -39,9 +39,9 @@ a{
 }
 
 .item-image {
-    width: 150%;
-    aspect-ratio: 1 / 1;
-    object-fit: scale-down;
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
     margin-top: 8px;
     display: block;
 }
